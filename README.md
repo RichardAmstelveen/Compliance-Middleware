@@ -1,2 +1,3 @@
 # Compliance
-Scripts for compliancy scans
+Scripts for compliance scans 
+For instance version of OpenSSL or LOG4J
